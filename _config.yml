@@ -1,0 +1,28 @@
+name: sxsw
+favicon: null
+layout_spectrum: 0.4768799524754286
+typography_spectrum: 0.9866843621712178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.719726701034233
+  lightness: 0.8385900296270847
+  saturation: 0.5231445950921625
+  rhythmicContrast: 0.4307761916425079
+purpose: []
