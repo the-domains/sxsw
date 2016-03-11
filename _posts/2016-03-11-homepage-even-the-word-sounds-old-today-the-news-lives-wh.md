@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Homepage. Even the word sounds old. Today the news lives where you live."'
-datePublished: '2016-03-11T17:57:49.762Z'
-dateModified: '2016-03-11T17:57:41.960Z'
+datePublished: '2016-03-11T18:26:10.654Z'
+dateModified: '2016-03-11T18:25:58.186Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-11-homepage-even-the-word-sounds-old-today-the-news-lives-wh.md
@@ -25,6 +25,7 @@ _type: Article
 **"Homepage. Even the word sounds old. Today the news lives where you live."**
 
 Ben Lerer's theory of media evolution: a change in technology leads to a change in consumer behavior and this creates massive opportunities for building large media and content companies. 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/debdffd4-ed5d-4b5b-ac0d-f3bb17329320.jpg)
 
 **History repeats itself (but differently)**
 
@@ -32,5 +33,4 @@ The old pipe owners were cable companies that layed out the groundwork for a bun
 
 **How the new pipe owners differ from the old pipe owners**
 
-The new pipe owners are tech centric (expertise), data centric (real-time decision making capability), have social DNA (be where your audience is), are mobile first (adapt the standard device) and create a real time newsroom (multichannel and multimedia). This resonates with millennial consumers and leads to truly native revenue generation with content costs in line with the ability to monetize. The new pipe owners are starting to become content companies and this is a really big deal. Think of Facebook Instant Articles, SnapChat Discover, Twitter Moments and Google's Amp Project. In summary, modern tools and tactics plus modern cost structures result in modern media companies.  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/340dc98f-ad8e-4562-b21f-7951b02d0247.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/debdffd4-ed5d-4b5b-ac0d-f3bb17329320.jpg)
+The new pipe owners are tech centric (expertise), data centric (real-time decision making capability), have social DNA (be where your audience is), are mobile first (adapt the standard device) and create a real time newsroom (multichannel and multimedia). This resonates with millennial consumers and leads to truly native revenue generation with content costs in line with the ability to monetize. The new pipe owners are starting to become content companies and this is a really big deal. Think of Facebook Instant Articles, SnapChat Discover, Twitter Moments and Google's Amp Project. In summary, modern tools and tactics plus modern cost structures result in modern media companies.
