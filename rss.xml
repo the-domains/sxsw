@@ -4,7 +4,7 @@
         <description><![CDATA[South By Southwest]]></description>
         <link>https://thegrid.ai/sxsw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 19:02:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 19:12:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sxsw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Fri, 11 Mar 2016 19:02:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>“Homepage. Even the word sounds old. Today the news lives where you live."</p>]]></description>
+            <title><![CDATA[The evolution of news media]]></title>
+            <description><![CDATA[<article><h1>The evolution of news media</h1><p>“Homepage. Even the word sounds old. Today the news lives where you live."</p></article>]]></description>
             <link>https://thegrid.ai/sxsw/homepage-even-the-word-sounds-old-today-the-news-lives-wh/index.html</link>
             <guid isPermaLink="false">0928ff0e-6b27-4597-9221-6531f55e526b</guid>
-            <pubDate>Fri, 11 Mar 2016 18:26:10 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 19:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
