@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BC3nHX6Olr2/?taken-by=oukearts'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-12T22:02:37.044Z'
+dateModified: '2016-03-12T22:02:31.633Z'
 author:
   - name: oukearts
     url: 'https://www.instagram.com/oukearts'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1204603455868132086'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BC3nHX6Olr2/?taken-by=oukearts'
 title: Max Levchin
-datePublished: '2016-03-12T22:01:34.882Z'
-dateModified: '2016-03-12T21:59:42.224Z'
 sourcePath: _posts/2016-03-12-max-levchin.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
