@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[South By Southwest]]></title>
         <description><![CDATA[South By Southwest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sxsw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 12:41:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 12:52:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sxsw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Austin Convention Center]]></title>
+            <description><![CDATA[<article><h1>Austin Convention Center</h1><p>Day one 13:30 hours</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e61e7bc018e5053089d4d9a2feb31e348d2521.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BC0wm0Yulit/?taken-by=oukearts</link>
+            <guid isPermaLink="false">2380adc8-683f-4e8b-9411-543024324945</guid>
+            <pubDate>Sat, 12 Mar 2016 12:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“Homepage. Even the word sounds old. Today the news lives where you live." ]]></title>
-            <description><![CDATA[<article><h1>“Homepage. Even the word sounds old. Today the news lives where you live." </h1><p>“Homepage. Even the word sounds old. Today the news lives where you live." Ben Lerer’s theory of media evolution: a change in technology leads to a change in co</p></article>]]></description>
+            <description><![CDATA[<article><h1>“Homepage. Even the word sounds old. Today the news lives where you live." </h1><h2> History repeats itself (but differently) </h2><p>Ben Lerer’s theory of media evolution: a change in technology leads to a change in consumer behavior and this creates massive opportunities for building large media and content companies.  </p></article>]]></description>
             <link>https://www.evernote.com/Home.action#n=5f9c3df7-eac5-4bf1-9053-f1be59ce9ddc&amp;ses=4&amp;sh=2&amp;sds=5&amp;</link>
             <guid isPermaLink="false">d7ddf7e7-748d-4503-9e75-7449832c7a2c</guid>
             <pubDate>Sat, 12 Mar 2016 12:40:43 GMT</pubDate>
