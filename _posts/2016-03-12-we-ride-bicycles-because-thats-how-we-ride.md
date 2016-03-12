@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BC19GPpulrs/?taken-by=oukearts'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-12T13:04:06.325Z'
+dateModified: '2016-03-12T13:04:03.849Z'
 author:
   - name: oukearts
     url: 'https://www.instagram.com/oukearts'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1204137185351719660'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BC19GPpulrs/?taken-by=oukearts'
-title: "We ride bicycles, because that's how we ride"
-datePublished: '2016-03-12T12:59:33.919Z'
-dateModified: '2016-03-12T12:58:00.232Z'
+title: South Congress Avenue
 sourcePath: _posts/2016-03-12-we-ride-bicycles-because-thats-how-we-ride.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
