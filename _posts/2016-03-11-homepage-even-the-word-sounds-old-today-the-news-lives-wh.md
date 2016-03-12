@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '“Homepage. Even the word sounds old. Today the news lives where you live."'
-datePublished: '2016-03-12T06:51:23.928Z'
-dateModified: '2016-03-12T06:47:05.321Z'
+datePublished: '2016-03-12T06:53:58.539Z'
+dateModified: '2016-03-12T06:51:32.247Z'
 title: The evolution of news media
 author: []
 sourcePath: _posts/2016-03-11-homepage-even-the-word-sounds-old-today-the-news-lives-wh.md
