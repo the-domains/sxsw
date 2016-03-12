@@ -1,6 +1,6 @@
 name: sxsw
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.48389
 title: South By Southwest
 cta:
@@ -22,7 +22,7 @@ color:
     - '#f86908'
     - '#95d703'
     - '#07aed3'
-  brandStrength: 0.8125
+  brandStrength: 0.75
   lightness: 0.8125
   saturation: 0.8125
   rhythmicContrast: 1
