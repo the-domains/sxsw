@@ -6,19 +6,19 @@ isBasedOnUrl: 'https://www.evernote.com/Home.action#n=5f9c3df7-eac5-4bf1-9053-f1
 inLanguage: null
 starred: false
 keywords: []
-description: "“Homepage. Even the word sounds old. Today the news lives where you live.\" Ben Lerer’s theory of media evolution: a\_change in technology leads to a change in co"
-datePublished: '2016-03-12T12:40:43.143Z'
-dateModified: '2016-03-12T12:40:39.914Z'
+description: "Ben Lerer’s theory of media evolution: a\_change in technology leads to a change in consumer behavior and this creates massive opportunities for building large media and content companies.\_\_"
+datePublished: '2016-03-12T13:03:50.462Z'
+dateModified: '2016-03-12T13:03:47.980Z'
 author: []
 title: "“Homepage. Even the word sounds old. Today the news lives where you live.\"\_"
+sourcePath: _posts/2016-03-12-homepage-even-the-word-sounds-old-today-the-news-lives-wh.md
+published: true
 authors: []
 publisher:
   name: evernote.com
   domain: www.evernote.com
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-homepage-even-the-word-sounds-old-today-the-news-lives-wh.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
