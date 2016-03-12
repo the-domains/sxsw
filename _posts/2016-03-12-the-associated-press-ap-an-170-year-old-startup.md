@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The Associated Press’s executive editor Kathleen Carroll\_likes to call AP the world’s largest independent news organization. AP is independent because it doesn’t have shareholders, it isn’t funded by venture capitalists and it isn’t any part of a governmental organization. Speed and screen time are the most challenging aspects of providing accurate and credible coverage of news in the real-time news era. A startup mentality with digital bootcamps is core to increasing the speed and screen time of its coverage.\_  Examples of leveraging technology to increase speed Live video broadcasting (partner: LiveVIew Technologies) Mobile video sharing (partner: bambuser) Remote drone photography\_  Examples of leveraging technology to increase screen time Personalized news apps Platform specific social storytelling\_ Robot-writing (partner: Automated Insights) Virtual reality journalism Data-visualizing (partner: Google) Conversation driving tools (partners: Twitter)"
-datePublished: '2016-03-12T13:00:22.646Z'
-dateModified: '2016-03-12T12:57:43.201Z'
+datePublished: '2016-03-12T13:03:32.037Z'
+dateModified: '2016-03-12T13:03:29.422Z'
 author: []
 title: "The Associated\_Press (AP): an\_170 year-old startup\_"
 sourcePath: _posts/2016-03-12-the-associated-press-ap-an-170-year-old-startup.md
@@ -25,4 +25,18 @@ _type: Article
 ---
 # The Associated Press (AP): an 170 year-old startup 
 
-The Associated Press's executive editor Kathleen Carroll likes to call AP the world's largest independent news organization. AP is independent because it doesn't have shareholders, it isn't funded by venture capitalists and it isn't any part of a governmental organization. Speed and screen time are the most challenging aspects of providing accurate and credible coverage of news in the real-time news era. A startup mentality with digital bootcamps is core to increasing the speed and screen time of its coverage.  Examples of leveraging technology to increase speed Live video broadcasting (partner: LiveVIew Technologies) Mobile video sharing (partner: bambuser) Remote drone photography  Examples of leveraging technology to increase screen time Personalized news apps Platform specific social storytelling  Robot-writing (partner: Automated Insights) Virtual reality journalism Data-visualizing (partner: Google) Conversation driving tools (partners: Twitter)
+The Associated Press's executive editor Kathleen Carroll likes to call AP the world's largest independent news organization. AP is independent because it doesn't have shareholders, it isn't funded by venture capitalists and it isn't any part of a governmental organization. Speed and screen time are the most challenging aspects of providing accurate and credible coverage of news in the real-time news era. A startup mentality with digital bootcamps is core to increasing the speed and screen time of its coverage.  
+
+## Examples of leveraging technology to increase speed 
+
+Live video broadcasting (partner: LiveView Technologies)   
+Mobile video sharing (partner: bambuser)   
+Remote drone photography 
+
+## Examples of leveraging technology to increase screen time 
+
+Personalized news apps   
+Platform specific social storytelling    
+Robot-writing (partner: Automated Insights)   
+Virtual reality journalism Data-visualizing (partner: Google)   
+Conversation driving tools (partners: Twitter)
