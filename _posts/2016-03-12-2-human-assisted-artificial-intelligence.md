@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: '*the doing of good or active kindness.'
-datePublished: '2016-03-12T22:04:16.589Z'
-dateModified: '2016-03-12T22:04:13.799Z'
+datePublished: '2016-03-12T22:05:53.193Z'
+dateModified: '2016-03-12T22:05:45.198Z'
 author: []
-title: "1. Beneficence* \_\_"
+title: Five secular changes
 sourcePath: _posts/2016-03-12-2-human-assisted-artificial-intelligence.md
 published: true
 authors: []
